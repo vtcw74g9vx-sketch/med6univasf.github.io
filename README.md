@@ -1,4 +1,4 @@
-# Livro de Ouro - Medicina 110 UFPB
+# Livro de Ouro - Medicina UNIVASF Turma VI
 
 [![Vite](https://img.shields.io/badge/Vite-4.x-646CFF?logo=vite)](https://vitejs.dev/)
 [![Vue 3](https://img.shields.io/badge/Vue-3.x-42b883?logo=vue.js)](https://vuejs.org/)
@@ -12,7 +12,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é o **Livro de Ouro Digital** da Turma de Medicina 110 da UFPB.  
+Este é o **Livro de Ouro Digital** da sexta turma de Medicina da UNIVASF Paulo Afonso.  
 Aqui você pode visualizar os doadores, contribuir para a formatura e eternizar seu nome na história da turma!
 
 O site é moderno, responsivo e seguro, feito para ser fácil de usar por todos.
@@ -114,8 +114,6 @@ Abra uma issue ou envie um pull request.
 
 ## 📄 Licença
 
-Projeto livre para uso pela Turma Medicina 110 UFPB.
+Projeto livre para uso pela Turma Medicina  VI UNIVASF.
 
 ---
-
-Feito com ❤️ por [@Yannngn](https://github.com/Yannngn) e Comissão de Formatura.
